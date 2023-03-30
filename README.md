@@ -1,8 +1,8 @@
 ### <h1> Hello, world! My name is Annie! </h1>
 
 <div style="display: inline">
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=AnnieAlves&layout=compact&langs_count=16&theme=midnight-purple"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieAlves&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnieAlves&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieAlves&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 <br>
