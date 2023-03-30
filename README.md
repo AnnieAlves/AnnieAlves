@@ -5,9 +5,9 @@
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieAlves&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
+<br>
 
-
-<div align:"center">
+<section align:"center">
 
   <h2> About me </h2>
   <p><strong>Pronoums: </strong> She/Her <br>
@@ -34,5 +34,5 @@
       <img height="60" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg">
     </a>
 
-</div>
+</section>
 
